@@ -1,6 +1,6 @@
 import sqlite3
 
-miConexion= sqlite3.connect("C:\\Cursos\\Python\\IfesProyectoFinal\\base")
+miConexion= sqlite3.connect("C:\\Users\\franc\\Documents\\GitHub\\Sistema-Academico\\IfesProyectoFinal\\base")
 
 miCursor = miConexion.cursor()
 
